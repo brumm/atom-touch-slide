@@ -2,7 +2,7 @@
   "name": "touch-slide",
   "main": "./lib/touch-slide",
   "version": "0.1.0",
-  "description": "A short description of your package",
+  "description": "Use your TouchBar™ to move your cursor on the current line",
   "keywords": [
     "touchbar",
     "cursor",
