@@ -9,7 +9,7 @@
     "slide",
     "swipe"
   ],
-  "repository": "https://github.com/brumm/atom-touch-slide",
+  "repository": "git@github.com:brumm/atom-touch-slide.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
