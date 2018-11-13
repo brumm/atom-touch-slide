@@ -14,5 +14,8 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "electron-canvas-to-buffer": "^2.0.0",
+    "lodash.debounce": "^4.0.8"
+  }
 }
